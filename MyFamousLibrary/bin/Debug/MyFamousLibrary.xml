@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyFamousLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MyFamousLibrary.Person">
+            <summary>
+            This is my class 'Person'
+            </summary>
+        </member>
+        <member name="P:MyFamousLibrary.Person.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+            <value>
+            The name.
+            </value>
+            <exception cref="T:System.ArgumentNullException">Name</exception>
+        </member>
+        <member name="P:MyFamousLibrary.Person.Age">
+            <summary>
+            Gets or sets the age.
+            </summary>
+            <value>
+            The age.
+            </value>
+            <exception cref="T:System.ArgumentOutOfRangeException">Age</exception>
+        </member>
+        <member name="M:MyFamousLibrary.Person.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:MyFamousLibrary.Person"/> class.
+            </summary>
+            Text before Person
+        </member>
+        <member name="M:MyFamousLibrary.Person.IncrementAge(System.Int32)">
+            <summary>
+            Increments the age.
+            </summary>
+            <param name="years">Used to define the incrementation step</param>
+            <paramref name="years">Used to define the incrementation step</paramref>
+        </member>
+        <member name="M:MyFamousLibrary.Person.myMethodWithTwoParams(System.Int32,System.Int32)">
+            <summary>
+            Description of myMethod
+            </summary>
+            <param name="a">Description of a ...</param>
+            <param name="b">Description of b ...</param>
+        </member>
+        <member name="M:MyFamousLibrary.Person.mySecondMethodWithReturnvalue(System.String)">
+            <summary>
+            Description of this method ...
+            </summary>
+            <param name="name">Description of name ...</param>
+            <returns>Returns an empty string</returns>
+        </member>
+        <member name="M:MyFamousLibrary.Person.myThirdMethodWithRemark">
+            <summary>
+            Description of this method ...
+            </summary>
+            <remarks>Some additional informations ...<see cref="P:MyFamousLibrary.Person.Age"/></remarks>
+            
+        </member>
+        <member name="M:MyFamousLibrary.Person.myGenericMethod``1">
+            <summary>
+            Description of this method ...
+            </summary>
+            <typeparam name="T">Description of T ...</typeparam>
+        </member>
+        <member name="M:MyFamousLibrary.Person.myPrivateMethod(System.Int32,System.Int32)">
+            <summary>
+            Mies the private method.
+            </summary>
+            <param name="a">a.</param>
+            <param name="b">The b.</param>
+            <returns>The sum of a and b</returns>
+        </member>
+        <member name="M:MyFamousLibrary.Person.AddPerson(System.Int32)">
+            <summary>
+            Adds the person.
+            </summary>
+            <param name="a">a. Further descr....</param>
+            <returns>Returns an empty string</returns>
+        </member>
+    </members>
+</doc>

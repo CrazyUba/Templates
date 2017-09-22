@@ -1,0 +1,7 @@
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\bin\Debug\MyFamousLibrary.dll
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\bin\Debug\MyFamousLibrary.pdb
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\obj\Debug\MyFamousLibrary.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\obj\Debug\MyFamousLibrary.csproj.CoreCompileInputs.cache
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\obj\Debug\MyFamousLibrary.dll
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\obj\Debug\MyFamousLibrary.pdb
+C:\Devel\VisalStudio\Projects\_uba\Templates\MyFamousLibrary\bin\Debug\MyFamousLibrary.xml

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic id="365f6dc0-f615-4beb-a8b1-8e690fe6c457" visible="True" isDefault="true" isSelected="true" title="Welcome to the the famous tool called '...'" tocTitle="Title TOC ..." linkText="Link ...">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="Welcome" />
+    </HelpKeywords>
+  </Topic>
+  <Topic id="68531982-bbb2-44f0-bcbd-f04e8f9d5763" visible="True" isExpanded="true" title="Version History">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="version, history" />
+    </HelpKeywords>
+    <Topic id="c852e53b-b7f6-4e87-981b-7bc53c6f5ae4" visible="True" title="Version 1.0.0.0">
+      <HelpKeywords>
+        <HelpKeyword index="K" term="version, 1.0.0.0" />
+      </HelpKeywords>
+    </Topic>
+  </Topic>
+</Topics>
